@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="flex justify-between items-center p-6 fixed w-full top-0 z-10 bg-black">
+    <header className="flex justify-between items-center p-4 fixed w-full top-0 z-10 bg-black">
       <a href="/">
         <img
           src="https://loodibee.com/wp-content/uploads/Netflix-logo.png"
